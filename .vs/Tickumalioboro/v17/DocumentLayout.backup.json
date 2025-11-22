@@ -1,0 +1,404 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|e:\\semester 3\\p.visual\\1\\tickumalioboro\\tickumalioboro\\beli1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|solutionrelative:tickumalioboro\\beli1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|e:\\semester 3\\p.visual\\1\\tickumalioboro\\tickumalioboro\\beli1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|solutionrelative:tickumalioboro\\beli1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|e:\\semester 3\\p.visual\\1\\tickumalioboro\\tickumalioboro\\wisata.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|solutionrelative:tickumalioboro\\wisata.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|e:\\semester 3\\p.visual\\1\\tickumalioboro\\tickumalioboro\\riwayat.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|solutionrelative:tickumalioboro\\riwayat.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|e:\\semester 3\\p.visual\\1\\tickumalioboro\\tickumalioboro\\tickumdb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|solutionrelative:tickumalioboro\\tickumdb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|e:\\semester 3\\p.visual\\1\\tickumalioboro\\tickumalioboro\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|solutionrelative:tickumalioboro\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|e:\\semester 3\\p.visual\\1\\tickumalioboro\\tickumalioboro\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|solutionrelative:tickumalioboro\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|e:\\semester 3\\p.visual\\1\\tickumalioboro\\tickumalioboro\\register.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|solutionrelative:tickumalioboro\\register.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|e:\\semester 3\\p.visual\\1\\tickumalioboro\\tickumalioboro\\aboutus.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|solutionrelative:tickumalioboro\\aboutus.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|e:\\semester 3\\p.visual\\1\\tickumalioboro\\tickumalioboro\\aboutus.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|solutionrelative:tickumalioboro\\aboutus.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|e:\\semester 3\\p.visual\\1\\tickumalioboro\\tickumalioboro\\wisata.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|solutionrelative:tickumalioboro\\wisata.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|e:\\semester 3\\p.visual\\1\\tickumalioboro\\tickumalioboro\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|solutionrelative:tickumalioboro\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|e:\\semester 3\\p.visual\\1\\tickumalioboro\\tickumalioboro\\register.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|solutionrelative:tickumalioboro\\register.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|e:\\semester 3\\p.visual\\1\\tickumalioboro\\tickumalioboro\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|solutionrelative:tickumalioboro\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|e:\\semester 3\\p.visual\\1\\tickumalioboro\\tickumalioboro\\beli1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|solutionrelative:tickumalioboro\\beli1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|e:\\semester 3\\p.visual\\1\\tickumalioboro\\tickumalioboro\\beli2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|solutionrelative:tickumalioboro\\beli2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|e:\\semester 3\\p.visual\\1\\tickumalioboro\\tickumalioboro\\riwayat.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|solutionrelative:tickumalioboro\\riwayat.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|e:\\semester 3\\p.visual\\1\\tickumalioboro\\tickumalioboro\\wisata.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|solutionrelative:tickumalioboro\\wisata.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|e:\\semester 3\\p.visual\\1\\tickumalioboro\\tickumalioboro\\register.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|solutionrelative:tickumalioboro\\register.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|e:\\semester 3\\p.visual\\1\\tickumalioboro\\tickumalioboro\\home.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|solutionrelative:tickumalioboro\\home.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|e:\\semester 3\\p.visual\\1\\tickumalioboro\\tickumalioboro\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|solutionrelative:tickumalioboro\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|e:\\semester 3\\p.visual\\1\\tickumalioboro\\tickumalioboro\\applicationevents.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|solutionrelative:tickumalioboro\\applicationevents.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|e:\\semester 3\\p.visual\\1\\tickumalioboro\\tickumalioboro\\login.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E9605BF9-9359-4B55-BC26-8F1AFE161A2F}|Tickumalioboro\\Tickumalioboro.vbproj|solutionrelative:tickumalioboro\\login.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tickumdb.vb",
+              "DocumentMoniker": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\tickumdb.vb",
+              "RelativeDocumentMoniker": "Tickumalioboro\\tickumdb.vb",
+              "ToolTip": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\tickumdb.vb",
+              "RelativeToolTip": "Tickumalioboro\\tickumdb.vb",
+              "ViewState": "AgIAADUAAAAAAAAAAADwv1oAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-11T02:33:35.151Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.vb [Design]",
+              "DocumentMoniker": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\Home.vb",
+              "RelativeDocumentMoniker": "Tickumalioboro\\Home.vb",
+              "ToolTip": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\Home.vb [Design]",
+              "RelativeToolTip": "Tickumalioboro\\Home.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-10T13:56:02.312Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.vb [Design]",
+              "DocumentMoniker": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\Login.vb",
+              "RelativeDocumentMoniker": "Tickumalioboro\\Login.vb",
+              "ToolTip": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\Login.vb [Design]",
+              "RelativeToolTip": "Tickumalioboro\\Login.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-10T13:49:34.998Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Riwayat.vb [Design]",
+              "DocumentMoniker": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\Riwayat.vb",
+              "RelativeDocumentMoniker": "Tickumalioboro\\Riwayat.vb",
+              "ToolTip": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\Riwayat.vb [Design]",
+              "RelativeToolTip": "Tickumalioboro\\Riwayat.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-10T13:50:35.694Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Wisata.vb [Design]",
+              "DocumentMoniker": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\Wisata.vb",
+              "RelativeDocumentMoniker": "Tickumalioboro\\Wisata.vb",
+              "ToolTip": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\Wisata.vb [Design]",
+              "RelativeToolTip": "Tickumalioboro\\Wisata.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-10T13:49:53.544Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Beli1.vb [Design]",
+              "DocumentMoniker": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\Beli1.vb",
+              "RelativeDocumentMoniker": "Tickumalioboro\\Beli1.vb",
+              "ToolTip": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\Beli1.vb [Design]",
+              "RelativeToolTip": "Tickumalioboro\\Beli1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-10T13:50:09.214Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Beli1.vb",
+              "DocumentMoniker": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\Beli1.vb",
+              "RelativeDocumentMoniker": "Tickumalioboro\\Beli1.vb",
+              "ToolTip": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\Beli1.vb",
+              "RelativeToolTip": "Tickumalioboro\\Beli1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-11T09:37:03.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.vb [Design]",
+              "DocumentMoniker": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\Register.vb",
+              "RelativeDocumentMoniker": "Tickumalioboro\\Register.vb",
+              "ToolTip": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\Register.vb [Design]",
+              "RelativeToolTip": "Tickumalioboro\\Register.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-10T13:50:40.288Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AboutUs.vb [Design]",
+              "DocumentMoniker": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\AboutUs.vb",
+              "RelativeDocumentMoniker": "Tickumalioboro\\AboutUs.vb",
+              "ToolTip": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\AboutUs.vb [Design]",
+              "RelativeToolTip": "Tickumalioboro\\AboutUs.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-10T13:50:20.236Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.vb",
+              "DocumentMoniker": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\Register.vb",
+              "RelativeDocumentMoniker": "Tickumalioboro\\Register.vb",
+              "ToolTip": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\Register.vb",
+              "RelativeToolTip": "Tickumalioboro\\Register.vb",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-11T02:14:00.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Home.vb",
+              "DocumentMoniker": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\Home.vb",
+              "RelativeDocumentMoniker": "Tickumalioboro\\Home.vb",
+              "ToolTip": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\Home.vb",
+              "RelativeToolTip": "Tickumalioboro\\Home.vb",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-11T02:45:23.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Wisata.vb",
+              "DocumentMoniker": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\Wisata.vb",
+              "RelativeDocumentMoniker": "Tickumalioboro\\Wisata.vb",
+              "ToolTip": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\Wisata.vb",
+              "RelativeToolTip": "Tickumalioboro\\Wisata.vb",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAowFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-11T02:55:34.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.vb",
+              "DocumentMoniker": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\Login.vb",
+              "RelativeDocumentMoniker": "Tickumalioboro\\Login.vb",
+              "ToolTip": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\Login.vb",
+              "RelativeToolTip": "Tickumalioboro\\Login.vb",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-11T02:28:03.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AboutUs.vb",
+              "DocumentMoniker": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\AboutUs.vb",
+              "RelativeDocumentMoniker": "Tickumalioboro\\AboutUs.vb",
+              "ToolTip": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\AboutUs.vb",
+              "RelativeToolTip": "Tickumalioboro\\AboutUs.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-10T14:32:32.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Beli1.Designer.vb",
+              "DocumentMoniker": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\Beli1.Designer.vb",
+              "RelativeDocumentMoniker": "Tickumalioboro\\Beli1.Designer.vb",
+              "ToolTip": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\Beli1.Designer.vb",
+              "RelativeToolTip": "Tickumalioboro\\Beli1.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-11T09:30:02.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Riwayat.vb",
+              "DocumentMoniker": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\Riwayat.vb",
+              "RelativeDocumentMoniker": "Tickumalioboro\\Riwayat.vb",
+              "ToolTip": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\Riwayat.vb",
+              "RelativeToolTip": "Tickumalioboro\\Riwayat.vb",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAD8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-11T09:02:07.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Beli2.vb [Design]",
+              "DocumentMoniker": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\Beli2.vb",
+              "RelativeDocumentMoniker": "Tickumalioboro\\Beli2.vb",
+              "ToolTip": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\Beli2.vb [Design]",
+              "RelativeToolTip": "Tickumalioboro\\Beli2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-11T09:47:38.768Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Wisata.Designer.vb",
+              "DocumentMoniker": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\Wisata.Designer.vb",
+              "RelativeDocumentMoniker": "Tickumalioboro\\Wisata.Designer.vb",
+              "ToolTip": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\Wisata.Designer.vb",
+              "RelativeToolTip": "Tickumalioboro\\Wisata.Designer.vb",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAwwFgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-11T06:15:01.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Register.Designer.vb",
+              "DocumentMoniker": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\Register.Designer.vb",
+              "RelativeDocumentMoniker": "Tickumalioboro\\Register.Designer.vb",
+              "ToolTip": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\Register.Designer.vb",
+              "RelativeToolTip": "Tickumalioboro\\Register.Designer.vb",
+              "ViewState": "AgIAAFMAAAAAAAAAAADgv2MAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-11T02:15:10.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAP8UAAAAAAAAAAAswAcVAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-11-11T06:14:24.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Home.Designer.vb",
+              "DocumentMoniker": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\Home.Designer.vb",
+              "RelativeDocumentMoniker": "Tickumalioboro\\Home.Designer.vb",
+              "ToolTip": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\Home.Designer.vb",
+              "RelativeToolTip": "Tickumalioboro\\Home.Designer.vb",
+              "ViewState": "AgIAAGwAAAAAAAAAAADwv28AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-11T02:45:53.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Application.Designer.vb",
+              "DocumentMoniker": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\My Project\\Application.Designer.vb",
+              "RelativeDocumentMoniker": "Tickumalioboro\\My Project\\Application.Designer.vb",
+              "ToolTip": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\My Project\\Application.Designer.vb",
+              "RelativeToolTip": "Tickumalioboro\\My Project\\Application.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-11T02:23:00.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApplicationEvents.vb",
+              "DocumentMoniker": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\ApplicationEvents.vb",
+              "RelativeDocumentMoniker": "Tickumalioboro\\ApplicationEvents.vb",
+              "ToolTip": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\ApplicationEvents.vb",
+              "RelativeToolTip": "Tickumalioboro\\ApplicationEvents.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-11T02:19:41.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Login.Designer.vb",
+              "DocumentMoniker": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\Login.Designer.vb",
+              "RelativeDocumentMoniker": "Tickumalioboro\\Login.Designer.vb",
+              "ToolTip": "E:\\SEMESTER 3\\P.VISUAL\\1\\Tickumalioboro\\Tickumalioboro\\Login.Designer.vb",
+              "RelativeToolTip": "Tickumalioboro\\Login.Designer.vb",
+              "ViewState": "AgIAAAsBAAAAAAAAAADwvysBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-11T02:27:20.158Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
